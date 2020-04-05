@@ -1,0 +1,15 @@
+---
+title: "R Markdown File"
+author: "Sri"
+date: "4/5/2020"
+output: pdf_document
+---
+
+
+## This is a markdown file
+
+```{r}
+print("Hello World")
+print("Project #1")
+```
+
